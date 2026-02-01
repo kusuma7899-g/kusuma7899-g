@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Student
+I'm Currently Learning FAST API 
+Worked as Junior Software Engineer in ASPIRE DIGITAL TECHNOLOGIES
 
 
 ## 🌐 Socials:
