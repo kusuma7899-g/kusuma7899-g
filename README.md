@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hey Hello !! This is Kusuma R 
+
 I'm Currently Learning FAST API 
 
 Worked as Junior Software Engineer in ASPIRE DIGITAL TECHNOLOGIES
